@@ -1,3 +1,7 @@
+#ECC4303 AI project from 
+# 179435 CHOO HONG YEE
+# 176555 CHANG JIT SHENG
+
 import random
 import string
 import itertools
